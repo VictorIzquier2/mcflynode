@@ -18,12 +18,12 @@ Para ejecutarse el proyecto hay que acceder al repositorio y descargarlo en loca
 
 3. Prueba las rutas en el navegador del local host o en Postman.co
 
-get Test: http://localhost:3900/api/test
-post Crear: http://localhost:3900/api/crear
-get Notas: http://localhost:3900/api/notas/
-get Nota: http://localhost:3900/api/nota/ ((+id))
-put MarcarFavorita: http://localhost:3900/api/nota/ ((+id))
-get Favoritas: http://localhost:3900/api/notas/favoritas
+- get Test: http://localhost:3900/api/test
+- post Crear: http://localhost:3900/api/crear
+- get Notas: http://localhost:3900/api/notas/
+- get Nota: http://localhost:3900/api/nota/ ((+id))
+- put MarcarFavorita: http://localhost:3900/api/nota/ ((+id))
+- get Favoritas: http://localhost:3900/api/notas/favoritas
 
 Gracias por interesarse en mis proyectos y darme la oportunidad de participar en este proceso de selección. 
 Sigueme en GitHub https://github.com/VictorIzquier2 y en LinkedIn https://www.linkedin.com/in/victor-izquierdo/
