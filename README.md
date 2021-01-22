@@ -22,9 +22,9 @@ Para ejecutarse el proyecto hay que acceder al repositorio y descargarlo en loca
 - get Test: http://localhost:3900/api/test
 - post Crear: http://localhost:3900/api/crear
    **Body** x-www-form-urlencoded
-   titulo: Encontrar a Doc
-   subtitulo: Cargar el Delorian
-   contenido: He regresado a 1955
+   - titulo: Encontrar a Doc
+   - subtitulo: Cargar el Delorian
+   - contenido: He regresado a 1955
 - get Notas: http://localhost:3900/api/notas/
 - get Nota: http://localhost:3900/api/nota/ ((+id))
 - put MarcarFavorita: http://localhost:3900/api/nota/ ((+id))
